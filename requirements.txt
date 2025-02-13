@@ -1,4 +1,4 @@
 fastapi==0.95.1
-pydantic==2.5.2
+pydantic==1.10.2  # (إصدار متوافق مع FastAPI 0.95.1)
 pandas==2.1.2
 uvicorn==0.22.0
